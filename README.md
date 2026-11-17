@@ -2,7 +2,7 @@
 
 # Yuvadhan L
 
-### `Software Developer` • `AI / ML Engineer` • `MCA Student`
+### `Software Developer` • `MCA Student`
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=24C6DC&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+into+Working+Models;Java+%E2%80%A2+Python+%E2%80%A2+Machine+Learning+%E2%80%A2+DSA;Clean%2C+Well-Structured+Code;MCA+(AI)+%40+Amrita+Vishwa+Vidyapeetham" />
 
