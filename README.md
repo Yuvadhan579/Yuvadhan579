@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yuvadhan L</h1>
-<h3 align="center">🚀 MCA Student | 💻 Future Software Engineer | 🤖 ML Enthusiast</h3>
+<h3 align="center">MCA Student | Future Software Engineer | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yuvadhan579&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
